@@ -69,3 +69,11 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.cv {
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: inline-image("../cv_icon.ico");
+    
+}
